@@ -26,6 +26,6 @@ int main()
 {
     printf("Min: %d\n", branchlessMin(9, 10));
     printf("Max: %d\n", branchlessMax(19, 10));
-    printf("Abs: %d\n", branchlessAbs(-9));
+    printf("Abs: %d\n", branchlessAbs(-0));
     return 0;
 }
