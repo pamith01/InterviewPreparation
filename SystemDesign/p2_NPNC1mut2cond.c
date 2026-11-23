@@ -4,7 +4,7 @@
 #include <pthread.h>
 #include <unistd.h>
 
-#define BUFFER_SIZE 5
+#define BUFFER_SIZE 10
 #define NUM_PRODUCERS 3
 #define NUM_CONSUMERS 3
 
